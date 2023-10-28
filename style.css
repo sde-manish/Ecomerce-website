@@ -540,7 +540,7 @@ footer .col{
         height: 70vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
-        max-width: -webkit-fill-available;
+        width: -webkit-fill-available;
     }
     #feature {
         justify-content: center;
