@@ -461,6 +461,12 @@ footer .col{
     width: 100%;
     text-align: center;
  }
+ #portfolio-link{
+    text-decoration:underline;
+    font-size: 15px;
+    font-weight: 900;
+    color: #088178;
+ }
 
 /* shop page */
 
