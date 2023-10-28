@@ -57,6 +57,7 @@ button.white{
 
 body{
     width:100%;
+    overflow-x: hidden;
 }
 
 /* header start */
