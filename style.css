@@ -701,9 +701,7 @@ footer .col{
     }
     
     /* single product */
-    #page-header{
-        width: -webkit-fit-available;
-    }
+    
     #prodetails {
         display: flex;
         flex-direction: column;
